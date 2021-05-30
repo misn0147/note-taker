@@ -11,8 +11,6 @@ module.exports = (app) => {
     // API GET REQUEST
     app.get('/api/notes', (req, res) => {
         
-        console.log('\n\nExecuting GET notes request');
-
         //READ 'db.json' file
         let data = JSON.parse(fs.readFileSync('./db/db.json', 'utf8'));
         console.log(JSON.stringify(data));        
@@ -37,7 +35,6 @@ module.exports = (app) => {
 
         fs.writeFileSync('./db/db.json', JSON.stringify(data));
 
-        console.log('new note written successfully to db.json');
         response.json(data);
     });
 
