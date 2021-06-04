@@ -35,7 +35,7 @@ module.exports = (app) => {
 
         fs.writeFileSync('./db/db.json', JSON.stringify(data));
 
-        response.json(data);
+        res.json(data);
     });
 
     // API DELETE REQUEST
