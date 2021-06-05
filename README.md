@@ -1,5 +1,7 @@
 # Noted
 
+Heroku deployed application: https://misn0147-noted.herokuapp.com/
+
 Demo/explaination video: https://drive.google.com/file/d/1C1tvQAZlnrOcDCpqYk1XyfwV9ARYTeFu/view
 
 Noted is a note taking app that allow the user to write, save, and delete notes. Each note is assigned its own unique ID number utilizing the uuid npm package.
