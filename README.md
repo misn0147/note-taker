@@ -2,7 +2,7 @@
 
 Demo/explaination video: https://drive.google.com/file/d/1C1tvQAZlnrOcDCpqYk1XyfwV9ARYTeFu/view
 
-Noted is a note taking app that allow the user to write, save, and delete notes. 
+Noted is a note taking app that allow the user to write, save, and delete notes. Each note is assigned its own unique ID number utilizing the uuid npm package.
 
 ![image](https://user-images.githubusercontent.com/79875711/120874858-3323f100-c56e-11eb-9e35-e65ea0118093.png)
 
