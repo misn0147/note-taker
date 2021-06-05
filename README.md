@@ -4,7 +4,8 @@ Demo/explaination video: https://drive.google.com/file/d/1C1tvQAZlnrOcDCpqYk1Xyf
 
 Noted is a note taking app that allow the user to write, save, and delete notes. 
 
-![image](https://user-images.githubusercontent.com/79875711/120874607-1935de80-c56d-11eb-9d0a-d4558aa68cb1.png)
+![image](https://user-images.githubusercontent.com/79875711/120874858-3323f100-c56e-11eb-9e35-e65ea0118093.png)
+
 
 
 ## User Story
